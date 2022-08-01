@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from INDIA <img src="https://image.flaticon.com/icons/svg/3014/3014003.svg" width="14"/> </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C19H3R" alt="C19H3R" /></p>
 
-
+# links might be broken just shifted my username from "C19H3R" to "EyeRunnMan"
 - 🌱 I’m currently learning **Fullstack Development**
 
 <h4>Stack I work with</h4>
