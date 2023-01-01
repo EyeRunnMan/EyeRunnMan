@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EyeRunnMan-GameDev-Portfolio](https://github.com/EyeRunnMan-GameDev-Portfolio)
 
-- 💬 Ask me about **Unity3D , Game Devlopment**
+- 💬 Ask me about **Unity3D , Game Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
