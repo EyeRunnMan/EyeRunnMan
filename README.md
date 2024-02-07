@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">Game Developer Specializing in Unity and C# | Currently Working on Upcoming IP Crimson Tactics: The Rise of White Banner</h3>
+<h3 align="center">Game Developer Specializing in Unity and C# | Currently Working on Indus Battle Royal</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eyerunnman&label=Profile%20views&color=0e75b6&style=flat" alt="eyerunnman" /> </p>
 
